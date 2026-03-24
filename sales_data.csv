@@ -1,0 +1,11 @@
+OrderID,Product,Category,Price,Quantity,City,Date
+1001,Laptop,Electronics,50000,01,Hyderabad,2023-01-10
+1002,Phone,Electronics,20000,2,Bangalore,2023-01-12
+1003,Shirt,Clothing,1500,3,Chennai,2023-01-15
+1004,Shoes,Clothing,3000,2,Hyderabad,2023-01-18
+1005,Tablet,Electronics,25000,1,Bangalore,2023-01-20
+1006,Watch,Accessories,2000,4,Chennai,2023-01-22
+1007,Laptop,Electronics,55000,1,Hyderabad,2023-01-25
+1008,Shirt,Clothing,1200,5,Bangalore,2023-01-28
+1009,Headphones,Electronics,3000,3,Chennai,2023-02-01
+1010,Jacket,Clothing,4000,2,Hyderabad,2023-02-05
