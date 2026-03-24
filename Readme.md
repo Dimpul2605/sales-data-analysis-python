@@ -9,7 +9,7 @@ This project analyzes sales data using Python and Pandas to extract useful busin
 - Analyze sales by city and category
 - Sort products based on quantity sold
 
-# Tools Used
+## Tools Used
 - Python
 - Pandas
 
